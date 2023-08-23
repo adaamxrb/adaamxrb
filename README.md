@@ -1,5 +1,5 @@
 <div align="center">
-<img width=850 height=225 src="./header.png"/><br><br>
+<img width=850 height=225 src="./header.png"/><br>
 </div>
 
 # Hello World
@@ -7,6 +7,7 @@
 - 🎱 Love to play billiards
 - 💗 Also Love u..
 - 🌕 Want to go to Mars
+  <br>
 
 <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="28px"/>Tech & Tools Mostly Used</h2>
 <div align="center">
