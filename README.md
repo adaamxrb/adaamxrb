@@ -1,5 +1,5 @@
 <div align="left">
-<img width=800 height=200 src="./header.png"/>
+<img width=800 height=175 src="./header.png"/>
 </div>
 
 - 🎓 Student At UPN "Veteran" Jawa Timur
