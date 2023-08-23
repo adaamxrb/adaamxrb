@@ -1,4 +1,4 @@
-# 🏄Adaamxrb
+# Hey There!👋
 <!--
 **adaamxrb/adaamxrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## ☑️ Tech & Tools Mostly Used
 <div>
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,tailwind,prisma,planetscale" />
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,php,laravel,bootstrap,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,devto,github" /><br>
     
 </div>
