@@ -7,19 +7,19 @@
 - 🎱 Love to play billiards
 - 💗 Also Love u..
 - 🌕 Want to go to Mars
-  <br>
+  <br><br>
 
 <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="28px"/>Tech & Tools Mostly Used</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,tailwind,prisma,planetscale" />
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,devto,github" />
-    
+    <br><br>
 </div>
 
 ## 🐍Contributions
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adaamxrb/adaamxrb/output/github-contribution-grid-snake-dark.svg"/>
-  
+  <br><br>
 </div>
 
 ## ⚡Stats
