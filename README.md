@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### ☑️ Tech & Tools Mostly Used
 <div>
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,tailwind,prisma,planetscale,vscode,bash,git,github" />
-    <img src="https://skillicons.dev/icons?i=python,c,laravel,html,css,bootstrap,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,tailwind,prisma,planetscale,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,python,c,laravel,html,css,bootstrap,mysql" /><br>
 </div>
