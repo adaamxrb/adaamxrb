@@ -5,6 +5,7 @@
 - 💗 Also Love u..
 - 🌕 Want to go to Mars
 
+
 ## 🔧Tech & Tools Mostly Used
 <div>
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,tailwind,prisma,planetscale" />
