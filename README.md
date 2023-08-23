@@ -14,7 +14,7 @@
 ## 🐍Contributions
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /<br/>
-  <img width=390 src="https://streak-stats.demolab.com/?user=adaamxrb&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=adaamxrb&theme=blue-green&border_radius=10&locale=id&mode=weekly&card_width=750"/>
 </div>
 
 ## ⚡Stats
