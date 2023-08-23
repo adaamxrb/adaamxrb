@@ -6,7 +6,6 @@
 - 🎓 Student At <b>UPN "Veteran" Jawa Timur</b>
 - 🎱 Love to play billiards
 - 💗 Also Love u..
-- 🌕 Want to go to Mars
   <br><br>
 
 <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="28px"/>Tech & Tools Mostly Used</h2>
