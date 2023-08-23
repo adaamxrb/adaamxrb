@@ -13,12 +13,12 @@
 
 ## 🐍Contributions
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /<br/>
-  <img src="https://streak-stats.demolab.com?user=adaamxrb&theme=blue-green&border_radius=10&locale=id&mode=weekly&card_width=800"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
+  
 </div>
 
 ## ⚡Stats
 <div align=center>
-  <img width=390 src="https://github-readme-stats-adaamxrb.vercel.app/api?username=adaamxrb&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://streak-stats.demolab.com?user=adaamxrb&theme=blue-green&border_radius=10&locale=id&mode=weekly&card_width=800"/>
   <br/>
 </div>
