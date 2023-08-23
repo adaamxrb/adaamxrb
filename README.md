@@ -17,6 +17,7 @@
 ## 🐍Contributions
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adaamxrb/adaamxrb/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/adaamxrb/adaamxrb/blob/output/github-contribution-grid-snake.svg"/>
   
 </div>
 
