@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### ☑️ Tech & Tools Mostly Used
 <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mysql,html,css,vscode,bash,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,mongodb,c,laravel,java" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,typescript,vscode,bash,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,c,laravel,html,css,boostrap,mysql" /><br>
 </div>
