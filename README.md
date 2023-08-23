@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./your-header-image-name.png"/>
+<img src="./github-header-image.png"/>
 </div>
 
 - 🎓 Student At UPN "Veteran" Jawa Timur
