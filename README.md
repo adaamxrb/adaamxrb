@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Student At UPN "Veteran" Jawa Timur
-🎱 Love to play billiard
-💗 Also Love u..
-🌕 Want to go to Mars
+- 🎓 Student At UPN "Veteran" Jawa Timur
+- 🎱 Love to play billiard
+- 💗 Also Love u..
+- 🌕 Want to go to Mars
 
 ## Languages-Frameworks-Tools
 <div>
