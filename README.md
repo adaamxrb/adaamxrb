@@ -1,6 +1,4 @@
-<div align="center">
-<img width=850 height=225 src="./header.png"/><br>
-</div>
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 # Hello World
 - 🎓 Student At <b>UPN "Veteran" Jawa Timur</b>
