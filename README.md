@@ -19,8 +19,11 @@
   <br><br>
 </div>
 
+<!--- 
 # ⚡Stats
+
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=adaamxrb&theme=blue-green&border_radius=10&locale=id&mode=weekly&card_width=800"/>
   <br/>
 </div>
+-->
